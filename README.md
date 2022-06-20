@@ -1,3 +1,2 @@
-# Improved traffic light optimization
-Minimazing waiting time in junction using genetic algorithm on SUMO traffic microsimulation software.
-Added training for random trips
+# PyGAD traffic light optimization
+Minimizing waiting time of cars in junction using PyGAD on SUMO traffic microsimulation software.

@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="simulation.net.xml"/>
+		<route-files value="simulation.rou.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="1500"/>
+		<step-length value="1"/>
+	</time>
+</configuration>
